@@ -1,5 +1,10 @@
 ### Assignment-2
 
+
+#deployement link of this assignemnt 
+
+[project deployed link ](https://chimerical-sopapillas-2de183.netlify.app/).
+
 ## Fect User Info
 
 =>fetch the data from json link\
@@ -15,6 +20,8 @@
 # sort Button
 
 => user data can sort by there names\
+
+
 
 
 
