@@ -1,9 +1,9 @@
 ### Assignment-2
 
 
-#deployement link of this assignemnt 
+# deployement link of this assignemnt 
 
-[project deployed link ](https://chimerical-sopapillas-2de183.netlify.app/).
+ # [project deployed link ](https://chimerical-sopapillas-2de183.netlify.app/).
 
 ## Fect User Info
 
